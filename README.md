@@ -10,7 +10,8 @@
 
 Login/Signup Page
 - In the login page, you can start by logging in to the site or if you are a new user you can signup and then continue logging in to the site.
-![Screenshot from 2023-06-14 12-11-41](https://github.com/ayushipandey01/to-do-app-dashboard/assets/40225444/be6316f7-0ef2-4b73-b31a-594c47a45e63)
+- ![Screenshot from 2023-06-14 12-11-41](https://github.com/believe-that-23/todo-app/assets/84314022/aa2fc353-4ddf-41a1-b293-879fb0221a78)
+
 
 
 
@@ -19,7 +20,9 @@ Dashboard Page
 
 - In the Dashboard page, you can see your previously added todos and also the current ones which you add. Moreover, you can delete the todos which are completed.
 
-![Screenshot from 2023-06-14 12-13-39](https://github.com/ayushipandey01/to-do-app-dashboard/assets/40225444/c78f94d4-67ca-4437-96a8-17866061ae88)
+![Screenshot from 2023-06-14 12-13-39](https://github.com/believe-that-23/todo-app/assets/84314022/861d4475-84c6-46c5-b94f-99e12169931b)
+
+
 
 
 
