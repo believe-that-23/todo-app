@@ -38,9 +38,7 @@ Dashboard Page
 
 ## Author
 
--   Ayushi Pandey - follow me on 👇
--   [GitHub](https://github.com/ayushipandey01)
--   [LinkedIn](https://www.linkedin.com/in/ayushi-pandey-1a4775149)
+-   Arnav Kumar Pandey - follow me on 👇
 
 
 ## Run Locally
@@ -50,9 +48,6 @@ Pre-requisites - Please make sure you have mongoDB shell installed.
 Clone the project by adding the following command in the terminal.
 Make sure your have git installed and added to path.
 
-```bash
-  git clone https://github.com/ayushipandey01/to-do-app-dashboard.git
-```
  
 Go to the project directory
 
